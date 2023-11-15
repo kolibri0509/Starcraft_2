@@ -1,6 +1,6 @@
-Твоя раса в Starcraft 2.
+Your race in Starcraft 2.
 ---
 HTML, CSS, JavaScript, Vue-js.
-Учебная работа.
+Educational project.
 
 [Результат](https://kolibri0509.github.io/Starcraft_2/)
